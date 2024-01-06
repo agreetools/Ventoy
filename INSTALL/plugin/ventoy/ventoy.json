@@ -7,9 +7,9 @@
     "theme": {
         "file": "/ventoy/theme/theme.txt",        
         "display_mode": "GUI",
-        "ventoy_left": "5%",
+        "ventoy_left": "0%",
         "ventoy_top": "95%",
-        "ventoy_color": "#0000ff"
+        "ventoy_color": "#ff0000"
     },
     
     
